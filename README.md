@@ -10,5 +10,7 @@ The following files are stored in this repository:
 This repository is intended for IGNITE NCPAG's SkillShare 2026 titled, "Stats for the State: Intro to Data Analytics in Public Administration." Please note that the materials contained herein are not for reproduction or reuse without permission. Access to this repository is limited to those provided with it by the author.
 ## Contact
 Email: jlsantos19@up.edu.ph
+
 LinkedIn: https://www.linkedin.com/in/johnsonsantos/
+
 ORCID: https://orcid.org/0009-0002-8113-6390
