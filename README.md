@@ -8,6 +8,8 @@ The following files are stored in this repository:
 - News articles to contextualize the dataframe
 ## Intended Purpose
 This repository is intended for IGNITE NCPAG's SkillShare 2026 titled, "Stats for the State: Intro to Data Analytics in Public Administration." Please note that the materials contained herein are not for reproduction or reuse without permission. Access to this repository is limited to those provided with it by the author.
+## Ethical Use
+This repository includes a dataframe from the lecturer's co-authored research paper titled, "How Does the Philippine Public Understand Dengue EWARS?: Evidence from an Urban Poor Community" presented during the Interdisciplinary Conference on Accountability, Reform, and Engagement (ICARE) 2025, hosted by the UP NCPAG. Any authorized use of this dataframe will be met with appropriate legal actions under the UP Privacy Policy and UP IPR Policy. Any knowledge of of unathorized use of the dataframe attached herein should be reported to the lecturer through the channels provided below.
 ## Contact
 Email: jlsantos19@up.edu.ph
 
