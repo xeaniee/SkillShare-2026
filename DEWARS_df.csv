@@ -1,0 +1,69 @@
+ID,ovi_status,age,sex,occupation,monthly_income,personal_dengue,family_dengue,susceptibility,severity,benefits,barriers,cues,efficacy,knowledge,understanding,helpfulness_of_EWARS,type_of_mosq,mosq_place
+1,0,57,0,Pook coordinator,1,0,0,3,5,4,3,4,4,1,"Tracing, detection, targeting",Dengue awareness,Unaware,"Stagnant water, tires"
+2,0,54,0,Housewife,1,0,1,5,5,5,4,5,5,0,Mosquito elimination,Mosquito eradication,Female mosquitoes,"Stagnant water, tires"
+3,0,49,0,Unemployed,1,0,0,2,1,4,4,4,4,0,,,Male mosquitoes,Unsanitary place
+4,0,35,0,Self-employed,2,0,0,5,5,5,3,5,5,0,Combat dengue,"Dengue awareness, dengue prevention",Unaware,"Stagnant water, unsanitary place, trash"
+5,0,61,1,Unemployed,1,0,0,1,3,1,1,5,2,0,Alternatives preferred,Not helpful,,"Greenery, trash"
+6,0,55,0,Unemployed,1,0,0,5,4,2,4,5,5,0,Elimination,For mosquito hub,Female mosquitoes,"Stagnant water, unsanitary place"
+7,0,68,1,Vendor,1,0,0,1,1,5,2,1,1,0,,,,"Stagnant water, unsanitary place"
+8,0,35,1,Contractor,1,0,0,5,4,1,4,5,5,0,Mosquito elimination,Scientifically proven,,"Stagnant water, unsanitary place, tires"
+9,0,68,0,Unemployed,1,0,0,4,5,4,5,5,5,1,Mosquito collection and capture,For unsanitary places,,"Greenery, unsanitary places, school"
+10,0,57,0,Unemployed,2,0,0,5,5,1,4,5,5,0,Unaware,"Not helpful, unsanitary places",Unaware,Stagnant water
+11,0,29,0,Virtual assistant,3,0,1,4,4,3,4,4,3,0,Unaware,For awareness,Black and white,"Stagnant water, greenery, unsanitary place"
+12,0,25,1,Vendor,1,0,0,2,5,2,2,5,5,0,Unaware ,"Preparation, cleaning, increase of gov't funding",Unaware,"Stagnant water, tires, unsanitary place"
+13,0,37,0,Vendor,1,0,0,4,4,2,3,4,4,0,Unaware,"Fumigation, low dengue cases",Female mosquitoes,"Stagnant water, bottle, tires, greenery"
+14,0,52,0,Vendor,1,0,1,4,5,4,4,4,5,0,Unaware,Cleaning,Unaware,"Tires, unsanitary place"
+15,0,38,1,Driver,1,0,0,2,4,3,4,4,4,0,Unaware,Fumigation,Spotted,Unsanitary place
+16,0,65,0,Housewife,2,0,0,4,5,5,2,2,5,0,Unaware,Survival,"Spotted, black and white","Stagnant water, bottle, unsanitary place"
+17,0,69,0,Housewife,1,0,0,1,5,5,1,5,5,0,,For awareness,Unaware,"Stagnant water, unsanitary place, trash"
+18,0,30,0,Domestic worker,1,0,0,3,5,4,3,5,5,0,Mosquito elimination,"Cleaning, awareness",Unaware,Stagnant water
+19,0,21,0,Domestic worker,1,0,0,1,5,1,5,1,1,0,Unaware,Cleaning,,Unsanitary place
+20,0,43,0,Store keeper,1,0,0,2,5,5,5,5,5,0,Unaware,For awareness,"Black and white, bites from 5 am - 5 pm","Stagnant water, bottle, trash, unsanitary place, tires, vehicles"
+21,0,61,0,Housewife,2,0,0,1,5,5,5,5,5,1,Mosquito control,Mosquito control,Bites between 5 am - 5 pm,"Trash, stagnant water, bottle, unsanitary place"
+22,0,30,0,Street sweeper,1,0,0,2,1,4,3,4,3,1,Mosquito capture,Cleaning,"Black and white, long proboscis",Bottle
+23,0,40,0,Unemployed,2,0,0,1,5,4,3,5,5,1,Mosquito reduction,Aware,Spotted,"Stagnant water, unsanitary place"
+24,0,53,0,Vendor,2,0,0,1,5,5,1,5,5,1,Mosquito elimination,For awareness,Small mosquitoes,"Dark places, stagnant water, unsanitary place"
+25,0,50,0,Vendor,3,0,0,4,5,4,3,5,5,0,Unaware,"For awareness, cleaning",Unaware,"Greenery, stagnant water, tires"
+26,0,48,0,Helper,1,0,0,2,5,5,5,5,5,1,Mosquito awareness,For awareness,Unaware,"Unsanitary place, trash, tires, stagnant water"
+27,0,22,0,Unemployed,1,0,1,3,5,4,3,4,4,1,Dengue awareness,Early response,Unaware,Unsanitary place
+28,0,47,0,Unemployed,4,0,0,1,2,4,3,1,1,1,Mosquito control,For awareness,Unaware,"Tires, stagnant water"
+29,0,65,0,Vendor,1,0,0,1,5,4,5,5,5,1,Mosquito control,Dengue prevention,Unaware,Stagnant water
+30,0,37,1,Construction worker,1,0,0,1,4,3,5,5,3,0,Unaware,Cleaning,Unaware,"Greenery, unsanitary place"
+31,0,48,0,Vendor,1,0,0,1,4,5,5,5,5,1,Mosquito control,Dengue prevention,Unaware,"Stagnant water, tires, unsanitary place"
+32,0,54,0,Barangay volunteer,2,0,0,4,2,4,4,4,4,0,Unaware,For awareness,Large mosquitoes,"Unsanitary place, stagnant water"
+33,0,40,0,Security guard,2,0,0,3,5,1,3,4,5,0,Prevention of dengue,For awareness,Spotted,"Clean water, stagnant water"
+34,0,54,1,Janitor,2,0,0,3,5,3,3,5,3,0,Unaware,For awareness,Spotted,Stagnant water
+35,1,64,0,Vendor,2,0,0,4,5,4,4,4,5,1,Mosquito population control,Mosquito collection,Unaware,Stagnant water
+36,1,23,0,Procurement staff,2,0,0,5,5,4,5,5,4,0,Mosquito deterrence,Mosquito population control,Unaware,Stagnant water
+37,1,20,0,Unemployed,1,0,0,3,4,4,2,4,4,0,Mosquito deterrence,For awareness,Unaware,Stagnant water
+38,1,25,0,Unemployed,2,0,0,5,4,5,5,5,3,1,Mosquito population estimation,Identification of mosquito type,Unaware,"Unsanitary place, trash, stagnant water"
+39,1,72,1,Craftsman,2,0,1,5,5,5,5,4,1,0,Dengue avoidance,For awareness,Unaware,Anywhere
+40,1,47,0,Vendor,1,0,0,3,4,3,4,4,3,0,OL produces deadly scent,Alternative measure for dengue,"Black, large, long proboscis","Stagnant water, tire, drum"
+41,1,54,0,Streetsweeper,1,0,0,2,4,3,5,5,5,1,"Tracing, mosquito population estimation",Determine mosquito population,Striped,Unsanitary place
+42,1,32,0,Housewife,1,0,0,4,5,5,5,5,5,1,Dengue awareness,For awareness,Striped,"Stagnant water, drum, bottle"
+43,1,25,0,Housewife,2,0,1,4,5,4,4,4,2,1,Dengue awareness,For awareness,Unaware,"Dark, tire, stagnant water"
+44,1,44,0,Vendor,1,1,1,4,5,4,1,4,4,1,Mosquito population estimation,For awareness,Unaware,"Stagnant water, greenery"
+45,1,23,0,Unemployed,2,0,0,2,5,4,4,4,4,1,"Larvae elimination, mosquito deterrence, mosquito population control","Attracts mosquito, mosquito elimination","Spotted, male","Stagnant water, greenery, tires"
+46,1,31,0,Housewife,2,0,0,3,5,4,2,4,5,1,Tracing,Not helpful,Spotted,"Stagnant water, clean water, cans, bottles, tires"
+47,1,23,0,Nurse,3,0,0,5,5,4,1,5,4,0,,"Yes, spray baygon",Aedes aegypti,"Stagnant water, dark water"
+48,1,74,1,Retiree,1,0,0,5,5,4,5,5,1,1,"Larvae collection, mosquito population estimation","Yes, would not be used if not helpful",Female mosquitoes,"Unsanitary place, stagnant water, clean water"
+49,1,37,0,Unemployed,1,0,0,2,4,3,2,4,4,0,"Moquito elimination, combat dengue",Mosquito elimination,Long proboscis,"Unsanitary place, greenery"
+50,1,46,0,Vendor,1,0,0,2,5,3,1,5,4,0,Mosquito trapping,Determine larvae presence,Unaware,"Stagnant water, unsanitary place"
+51,1,26,1,Unemployed,1,0,0,3,4,1,4,4,5,1,"Dengue observation, mosquito tracing",,Unaware,"Greenery, stagnant water"
+52,1,53,0,Unemployed,4,0,0,4,5,4,2,4,4,1,Larvae detection,"Used as basis, determine larvae presence","Spotted, bites between 5 am - 5 pm","Stagnant water, unsanitary place"
+53,1,32,0,Unemployed,1,0,0,5,4,4,4,4,4,0,Mosquito elimination,"For awareness, cleaning",Unaware,"Trash, bottles"
+54,1,26,0,Vendor,2,0,1,5,5,5,5,5,5,1,Mosquito detection,Cleaning,Unaware,Stagnant water
+55,1,21,0,Unemployed,1,0,0,5,5,5,5,5,5,1,Mosquito detection,"Used as basis, determine mosquito presence",Unaware,Stagnant Water
+56,1,56,0,Unemployed,1,0,0,4,3,4,3,4,3,1,Mosquito detection,Cleaning,Unaware,Unsanitary place
+57,1,27,0,Online freelancer,3,0,0,5,4,4,3,3,3,1,Larvae elimination,helpful,Female mosquitoes,"Greenery, unsanitary place"
+58,1,26,0,Unemployed,1,0,0,3,5,5,3,5,5,1,"Dengue detection, ensures safety",helpful,Unaware,Stagnant water
+59,1,39,0,Unemployed,2,0,0,4,2,4,2,4,4,1,Mosquito detection,Determine dengue presence,Unaware,Stagnant water
+60,1,25,0,Barangay volunteer,2,1,1,5,5,5,5,1,4,1,Dengue monitoring,Determine dengue presence,Unaware,Stagnant water
+61,1,61,1,Traffic aide,1,0,0,5,5,5,1,5,5,1,Mosquito detection,"Used as basis, determine larvae presence",Unaware,"Clean, stagnant water"
+62,1,42,0,Driver,2,0,0,5,5,3,2,3,1,0,OL produces deadly scent,"Not helpful, mosquito presence",Unaware,Stagnant water
+63,1,53,1,On call,2,0,0,4,4,4,2,4,4,1,Mosquito prevention,Passive knowledge,Unaware,"Unsanitary place, stagnant water, "
+64,1,42,1,Liaison officer,4,0,0,2,4,3,2,4,5,1,Weekly mosquito detection,helpful,Striped,Stagnant water
+65,1,73,0,Vendor,1,0,0,1,1,1,4,1,4,1,Dengue detection,Not helpful,Unaware,Stagnant water
+66,1,48,0,Scrap buyer,1,0,0,1,1,4,5,3,5,0,Unaware,Not helpful,Unaware,Unsanitary place
+67,1,48,1,Barangay volunteer,2,0,0,1,4,4,2,4,4,1,Mosquito testing,Determine mosquito presence,Causes rashes,"Stagnant water, greenery"
+68,1,58,1,Unemployed,2,0,0,5,4,5,5,5,3,1,Dengue monitoring,Determine dengue presence,Unaware,Stagnant water
