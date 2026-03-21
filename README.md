@@ -3,7 +3,6 @@ This repository contains all the relevant dataframes collected from different pu
 Ensure that when you interact with this repository, you do not fork any materials to ensure easy handling of dataframes and other files stored herein. Unauthorized forking will be dealt with by the host.
 ## Included Files
 The following files are stored in this repository:
-- SPSS installer (https://drive.google.com/drive/folders/14RlqU7_jK95AX5uKtTUYxBQ4G4LOK3RT?usp=drive_link)
 - Dataframe in CSV format
 - News articles to contextualize the dataframe
 ## Intended Purpose
