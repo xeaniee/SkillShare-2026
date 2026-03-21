@@ -12,6 +12,7 @@ benefits,Nakakatulong labanan ang dengue gamit ang ovi-larvicidal traps,1 = Lubh
 barriers,Wala akong sapat na pera at oras para sa pangontra sa lamok at dengue,1 = Lubhang hindi sumasang-ayon,2 = Hindi sumasang-ayon,3 = Neutral,4 = Sumasang-ayon,5 = Lubhang sumasang-ayon
 cues,Naglinis ako ng pwedeng pamugaran ng lamok dahil sa ovi-larvicidal traps,1 = Lubhang hindi sumasang-ayon,2 = Hindi sumasang-ayon,3 = Neutral,4 = Sumasang-ayon,5 = Lubhang sumasang-ayon
 efficacy,Kaya kong kontrahin ang posibilidad ng dengue sa aming tahanan,1 = Lubhang hindi sumasang-ayon,2 = Hindi sumasang-ayon,3 = Neutral,4 = Sumasang-ayon,5 = Lubhang sumasang-ayon
+knowledge,0 = Do not know,1 = Know
 understanding,Ano sa pagkakaintindi mo ang ginagawa ng ovi-larvicidal traps?,Thematized,,,,
 helpfulness_of_EWARS,"Sa iyong palagay, nakatutulong ba ang dengue early warning systems? Bakit o bakit hindi?",Thematized,,,,
 type_of_mosq,"Alam mo ba anong klase ng lamok ang nagdudulot ng dengue? Kung oo, ano?",Thematized,,,,
